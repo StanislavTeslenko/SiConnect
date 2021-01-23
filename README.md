@@ -25,19 +25,31 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
 
 ## Application configuration
 
-1. "Server List" screen
+1. "Server List" screen. This is the main screen of the application. 
 
 <table width="100%" cellspacing="0" cellpadding="4" border="0">
   <tr>
     <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105578482-31108100-5d89-11eb-908d-c5468d0432ab.png"></td>
     <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105580384-bf3e3480-5d94-11eb-81d8-abeaebc6f1f9.png"></td>
     <td width="300">
-          <p> On this screen, you can create a new connection ("Add" button) to a PLC ("server"). </p>
+          <p> On this screen, user can create a new connection ("Add" button) to a PLC (so-called "Server"). </p>
           <p> With 3D-touch is possible to: </p>
           <p> - edit the server; </p>
           <p> - delete the server; </p>
           <p> - mark (and unmark) server as the default server. Default server mark with symbol "Star". </p>
           <p> If server mark as default, application load this server after start. </p>
+    </td>
+  </tr>
+ </table>
+ 
+2. "Add" ("Edit") screens. Into this screens create new or edit existing server is possible.
+
+<table width="100%" cellspacing="0" cellpadding="4" border="0">
+  <tr>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105578524-98c6cc00-5d89-11eb-81bf-8f86eec00623.png"></td>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105580882-c286ef80-5d97-11eb-8014-a052665e13f4.png"></td>
+    <td width="300">
+          <p> - Valid IP Address of the PLC is necessary </p>
     </td>
   </tr>
  </table>
