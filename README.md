@@ -25,7 +25,7 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
 
 ## Application configuration
 
-<table width="100%" cellspacing="0" cellpadding="4" border="1">
+<table width="100%" cellspacing="0" cellpadding="4" border="0">
   <tr>
     <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105578482-31108100-5d89-11eb-908d-c5468d0432ab.png"></td>
     <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105579236-f0673680-5d8d-11eb-83eb-f73b1783b5ea.png"></td>
