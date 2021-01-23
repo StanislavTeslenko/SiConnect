@@ -29,6 +29,8 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
   <img src="https://user-images.githubusercontent.com/49919277/105578482-31108100-5d89-11eb-908d-c5468d0432ab.png" width="250" title="hover text">
 </p>
 
+User can create new connection to server
+
 ## Built With
 
 * [Alamofire](https://github.com/Alamofire/Alamofire) - Elegant HTTP Networking in Swift
