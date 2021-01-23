@@ -31,12 +31,12 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
   <tr>
     <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105578482-31108100-5d89-11eb-908d-c5468d0432ab.png"></td>
     <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105580384-bf3e3480-5d94-11eb-81d8-abeaebc6f1f9.png"></td>
-    <td width="200">
+    <td width="300">
           <p> On this screen, you can create a new connection ("Add" button) to a PLC ("server"). </p>
-          <p> With 3D-touch is possible to: 
-            * edit the server;
-            * delete the server;
-            * mark (and unmark) server as the default server. Default server mark with symbol "Star". </p>
+          <p> With 3D-touch is possible to: </p>
+          <p> * edit the server; </p>
+          <p> * delete the server; </p>
+          <p> * mark (and unmark) server as the default server. Default server mark with symbol "Star". </p>
           <p> If server mark as default, application load this server after start. </p>
     </td>
   </tr>
