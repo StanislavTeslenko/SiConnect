@@ -20,8 +20,14 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
 ## Deployment
 
 1. Create JSON files that describe the system - [manual](https://github.com/StanislavTeslenko/SiConnect/blob/main/01%20Create%20JSON%20files%20for%20PLC)
-2. Update PLC program - [manual](https://github.com/StanislavTeslenko/SiConnect/blob/main/02%20Create%20PLC%20Program)
+2. Configure PLC program - [manual](https://github.com/StanislavTeslenko/SiConnect/blob/main/02%20Create%20PLC%20Program)
 3. Configure application
+
+## Application configuration
+
+<p align="left">
+  <img src="https://user-images.githubusercontent.com/49919277/105578482-31108100-5d89-11eb-908d-c5468d0432ab.png" width="250" title="hover text">
+</p>
 
 ## Built With
 
