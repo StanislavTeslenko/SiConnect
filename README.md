@@ -155,6 +155,28 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
     </td>
   </tr>
  </table>
+ 
+ From each screen of the unit, you can open a hierarchical table indicating the checked channels
+ 
+ <table width="100%" cellspacing="0" cellpadding="4" border="0">
+  <tr>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105630673-2d493100-5e53-11eb-9e3a-551779992fc7.png"></td>
+    <td width="300">
+          <p> Table with checked channels </p>
+    </td>
+  </tr>
+ </table>
+ 
+ This message will display if there is network or connection error:
+ 
+<table width="100%" cellspacing="0" cellpadding="4" border="0">
+  <tr>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105630654-1571ad00-5e53-11eb-981a-997ef1a6090e.png"></td>
+    <td width="300">
+          <p> Network or connection error </p>
+    </td>
+  </tr>
+ </table>
 
 ## Built With
 
