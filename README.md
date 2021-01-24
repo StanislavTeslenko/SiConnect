@@ -188,4 +188,4 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
 
 ## Authors
 
-* **Stanislav Teslenko** - *Developer* - [Stanislav Teslenko](https://github.com/StanislavTeslenko)
+* **Stanislav Teslenko** - *Developer* - [LinkedIn](www.linkedin.com/in/stanislavteslenko)
