@@ -57,7 +57,7 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
  </table>
  
  
- 3. After tapping on the created server cell will open the screen with the data downloaded from the server. The displayed data is fully described in the server configuration file.
+3. After tapping on the created server cell will open the screen with the data downloaded from the server. The displayed data is fully described in the server configuration file.
 
 <table width="100%" cellspacing="0" cellpadding="4" border="0">
   <tr>
@@ -70,7 +70,7 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
   </tr>
  </table>
  
-  4. After tapping on the unit cell will open the screen with the peripheral stations that belong to the unit (For example ET200SP stations). The displayed data is fully described in the server configuration file. In this example, the unit has only one peripheral station ET200SP.
+4. After tapping on the unit cell will open the screen with the peripheral stations that belong to the unit (For example ET200SP stations). The displayed data is fully described in the server configuration file. In this example, the unit has only one peripheral station ET200SP.
 
 <table width="100%" cellspacing="0" cellpadding="4" border="0">
   <tr>
@@ -79,8 +79,24 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
     <td width="300">
           <p> All displayed data is cyclically loaded from PLC  </p>
           <p> Station state is displayed into right-up cell corner </p>
-          <p> If station have a channel whitch is Forced, a "Force" symbol is displayed </p>
-          <p> If station have a channel whitch is in Error state, a station cell have a Red border </p>
+          <p> If station has a channel whitch is Forced, a "Force" symbol is displayed </p>
+          <p> If station has a channel whitch is in Error state, a station cell have a Red border </p>
+          <p> If all modules of station are "Checked", the "Checked" symbol is displayed </p>
+    </td>
+  </tr>
+ </table>
+ 
+5. After tapping on the station cell will open the screen with the station's modules. The displayed data is fully described in the server configuration file. In this example, the station has AI (Analod Input), AO (Analog Output), DI (Discrete Input) and DO (Discrete Output) modules.
+
+<table width="100%" cellspacing="0" cellpadding="4" border="0">
+  <tr>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105578567-ef340a80-5d89-11eb-96d7-a48997e2bcd7.png"></td>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105629450-a3499a00-5e4b-11eb-8539-0cdeb22604d9.png"></td>
+    <td width="300">
+          <p> All displayed data is cyclically loaded from PLC  </p>
+          <p> If module has a channel whitch is Forced, a "Force" symbol is displayed </p>
+          <p> If station has a channel whitch is in Error state, a station cell have a Red border </p>
+          <p> If all channels of module are "Checked", the "Checked" symbol is displayed </p>
     </td>
   </tr>
  </table>
