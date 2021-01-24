@@ -100,6 +100,34 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
     </td>
   </tr>
  </table>
+ 
+6. After tapping on the module cell will open the screen with the module's channels. The displayed data is fully described in the server configuration file. In this example, the AO module has two channels.
+
+<table width="100%" cellspacing="0" cellpadding="4" border="0">
+  <tr>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105629573-7053d600-5e4c-11eb-8668-8f568c6805b5.png"></td>
+    <td width="300">
+          <p> All displayed data is cyclically loaded from PLC  </p>
+          <p> If channel is Forced, a "Force" symbol is displayed </p>
+          <p> If channel is in Error state, a channel cell have a Red border </p>
+          <p> If channel is "Checked", the "Checked" symbol is displayed </p>
+    </td>
+  </tr>
+ </table>
+ 
+6. After tapping on the channel cell will open the screen with the channel's data. The displayed data is fully described in the server configuration file. There are 4 channel types: 2 input channels (AI and DI) without user control, and 2 output channels (AO and DO) with user control.
+
+<table width="100%" cellspacing="0" cellpadding="4" border="0">
+  <tr>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105629573-7053d600-5e4c-11eb-8668-8f568c6805b5.png"></td>
+    <td width="300">
+          <p> <b> All displayed data is cyclically loaded from PLC </b>  </p>
+          <p> If channel is Forced, a "Force" symbol is displayed </p>
+          <p> If channel is in Error state, a channel cell have a Red border </p>
+          <p> If channel is "Checked", the "Checked" symbol is displayed </p>
+    </td>
+  </tr>
+ </table>
 
 ## Built With
 
