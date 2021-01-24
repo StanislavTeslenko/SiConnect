@@ -79,6 +79,8 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
     <td width="300">
           <p> All displayed data is cyclically loaded from PLC  </p>
           <p> Station state is displayed into right-up cell corner </p>
+          <p> If station have a channel whitch is Forced, a "Force" symbol is displayed </p>
+          <p> If station have a channel whitch is in Error state, a station cell have a Red border </p>
     </td>
   </tr>
  </table>
