@@ -119,11 +119,39 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
 
 <table width="100%" cellspacing="0" cellpadding="4" border="0">
   <tr>
-    <td width="50"> <b> AI channel </b> </td>
+    <td width="80"> <b> AI channel </b> </td>
     <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105629786-cbd29380-5e4d-11eb-8ec9-68c8a4ea4761.png"></td>
     <td width="300">
           <p> All displayed data is cyclically loaded from PLC </p>
-          <p> If channel is Forced, a "Force" symbol is displayed </p>
+          <p> To mark channel as "Checked" tap on "Channel Checked" switch </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="80"> <b> DI channel </b> </td>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105629789-cd9c5700-5e4d-11eb-803a-a42385706c50.png"></td>
+    <td width="300">
+          <p> All displayed data is cyclically loaded from PLC </p>
+          <p> To mark channel as "Checked" tap on "Channel Checked" switch </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="80"> <b> AO channel </b> </td>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105629790-cf661a80-5e4d-11eb-92ee-7528259d94bb.png"></td>
+    <td width="300">
+          <p> All displayed data is cyclically loaded from PLC </p>
+          <p> To enable Forced control tap on "Control enable" switch </p>
+          <p> After activating Forced control set desired value via slider and press "Set" button </p>
+          <p> To mark channel as "Checked" tap on "Channel Checked" switch </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="80"> <b> DO channel </b> </td>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105629795-d42ace80-5e4d-11eb-94dc-1104d9696d3d.png"></td>
+    <td width="300">
+          <p> All displayed data is cyclically loaded from PLC </p>
+          <p> To enable Forced control tap on "Control enable" switch </p>
+          <p> After activating Forced control set desired value via buttons "On" and "Off" </p>
+          <p> To mark channel as "Checked" tap on "Channel Checked" switch </p>
     </td>
   </tr>
  </table>
