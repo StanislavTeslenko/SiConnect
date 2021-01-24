@@ -63,7 +63,22 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
   <tr>
     <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105578526-9d8b8000-5d89-11eb-98f9-526ab609724f.png"></td>
     <td width="300">
-          <p> Valid IP Address of the PLC is necessary </p>
+          <p> All displayed data is cyclically loaded from PLC  </p>
+          <p> Orange backgound color - unit has a warning state  </p>
+          <p> Red backgound color - unit has a alarm state  </p>
+    </td>
+  </tr>
+ </table>
+ 
+  4. After tapping on the unit cell will open the screen with the peripheral stations that belong to the unit (For example ET200SP stations). The displayed data is fully described in the server configuration file. In this example, the unit has only one peripheral station ET200SP.
+
+<table width="100%" cellspacing="0" cellpadding="4" border="0">
+  <tr>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105578564-ecd1b080-5d89-11eb-980d-42b8c46e30ee.png"></td>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105629024-4cdb5c00-5e49-11eb-87ad-fecce95a33e3.png"></td>
+    <td width="300">
+          <p> All displayed data is cyclically loaded from PLC  </p>
+          <p> Station state is displayed into right-up cell corner </p>
     </td>
   </tr>
  </table>
