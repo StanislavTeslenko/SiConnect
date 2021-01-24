@@ -8,7 +8,7 @@ Pre-release, testing before upload app to AppStore
 
 Getting data from Siemens SIMATIC S7-1200/1500 PLCs is a very necessary, but confusing task. This PLC-s dont have public libraries of Siemens S7 protocol for iOS. Any other supported protocols (e.g Modbus TCP, MQTT) do not provide simple data acquisition and require difficulty creation of the PLC and application programs.
 
-SiConnect is mobile application which used to visualize data from a PLC. The application constantly communicates with the PLCs web-server and does not require the development of UI on the side of the iOS end-user. The connection takes place over the WiFi network.
+SiConnect is mobile application which used to visualize data from a PLC. The application constantly communicates with the PLCs web-server and does not require the development of UI on the side of the iOS end-user. Data exchange takes place over the WiFi network.
 
 ## Benefits:
 1. Absolute protection of the PLC program from external impact
