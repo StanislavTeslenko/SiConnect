@@ -42,6 +42,7 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
   </tr>
  </table>
  
+ 
 2. "Add" ("Edit") screens. Into this screens create new or edit existing server is possible.
 
 <table width="100%" cellspacing="0" cellpadding="4" border="0">
@@ -49,8 +50,20 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
     <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105578524-98c6cc00-5d89-11eb-81bf-8f86eec00623.png"></td>
     <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105580882-c286ef80-5d97-11eb-8014-a052665e13f4.png"></td>
     <td width="300">
-          <p> <th>Valid IP Address of the PLC is necessary</th> </p>
-          <p> **Username** and **Password** are are fields required for authentication to PLC's web-server </p>
+          <p> Valid IP Address of the PLC is necessary </p>
+          <p> "Username" and "Password" fields are required for authentication to PLC's web-server </p>
+    </td>
+  </tr>
+ </table>
+ 
+ 
+ 3. After tapping on the created server cell will open the screen with the data downloaded from the server. The displayed data is fully described in the server configuration file.
+
+<table width="100%" cellspacing="0" cellpadding="4" border="0">
+  <tr>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105578526-9d8b8000-5d89-11eb-98f9-526ab609724f.png"></td>
+    <td width="300">
+          <p> Valid IP Address of the PLC is necessary </p>
     </td>
   </tr>
  </table>
