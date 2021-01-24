@@ -119,12 +119,11 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
 
 <table width="100%" cellspacing="0" cellpadding="4" border="0">
   <tr>
-    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105629573-7053d600-5e4c-11eb-8668-8f568c6805b5.png"></td>
+    <td width="50"> <b> AI channel </b> </td>
+    <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105629786-cbd29380-5e4d-11eb-8ec9-68c8a4ea4761.png"></td>
     <td width="300">
-          <p> <b> All displayed data is cyclically loaded from PLC </b>  </p>
+          <p> All displayed data is cyclically loaded from PLC </p>
           <p> If channel is Forced, a "Force" symbol is displayed </p>
-          <p> If channel is in Error state, a channel cell have a Red border </p>
-          <p> If channel is "Checked", the "Checked" symbol is displayed </p>
     </td>
   </tr>
  </table>
