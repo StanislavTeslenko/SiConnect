@@ -24,7 +24,7 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
 3. Create connection to PLC into application
 4. Enjoy :)
 
-## Application configuration
+## Application description
 
 1. "Server List" screen. This is the main screen of the application. 
 
