@@ -162,7 +162,7 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
   <tr>
     <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105630673-2d493100-5e53-11eb-9e3a-551779992fc7.png"></td>
     <td width="300">
-          <p> Table with checked channels </p>
+          <p> Table with check status of channels </p>
     </td>
   </tr>
  </table>
