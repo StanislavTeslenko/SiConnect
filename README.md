@@ -49,7 +49,7 @@ SiConnect is mobile application which used to visualize data from a PLC. The app
     <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105578524-98c6cc00-5d89-11eb-81bf-8f86eec00623.png"></td>
     <td width="270"><img src="https://user-images.githubusercontent.com/49919277/105580882-c286ef80-5d97-11eb-8014-a052665e13f4.png"></td>
     <td width="300">
-          <p> **Valid IP Address of the PLC is necessary** </p>
+          <p> <th>Valid IP Address of the PLC is necessary</th> </p>
           <p> **Username** and **Password** are are fields required for authentication to PLC's web-server </p>
     </td>
   </tr>
